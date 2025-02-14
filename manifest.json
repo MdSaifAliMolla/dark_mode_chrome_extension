@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Grey Light Mode",
+    "name": "Awesome Night Mode",
     "version": "1.0",
     "description": "Adds a greyish overlay to light mode sites for eye comfort.",
     "permissions": ["storage"],
